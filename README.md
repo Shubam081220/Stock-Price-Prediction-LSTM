@@ -41,8 +41,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact 📩
 For any questions or inquiries, feel free to reach out to us:
 - **Email:** shubamlunawat15@gmail.com
-
-
-Let's make accurate stock market predictions together!
-
-Thank you for visiting our project repository. Happy predicting! 😇
