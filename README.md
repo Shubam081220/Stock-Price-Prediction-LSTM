@@ -33,7 +33,7 @@ In this section, we present the results of our stock market prediction experimen
 <img width="1028" alt="Screenshot 2023-05-10 at 4 33 59 AM" src="https://github.com/034adarsh/Stock-Price-Prediction-Using-LSTM/assets/95336274/2590dc7b-29bb-45ae-b0a2-1bf869db0125">
 
 ## Contributing 🤝
-We welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. We appreciate your contributions!
+If you have any suggestions, bug fixes, or new features to add, please submit a pull request. We appreciate your contributions!
 
 ## License 🔐
 This project is licensed under the [MIT License](LICENSE).
