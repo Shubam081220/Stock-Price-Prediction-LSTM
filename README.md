@@ -40,8 +40,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact 📩
 For any questions or inquiries, feel free to reach out to us:
-- **Email:** adarsh36jnp@gmail.com
-- **LinkedIn:** [Adarsh Kumar Singh](https://www.linkedin.com/in/adarsh-kumar-singh-3aa172201/)
+- **Email:** shubamlunawat15@gmail.com
+
 
 Let's make accurate stock market predictions together!
 
